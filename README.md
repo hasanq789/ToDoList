@@ -1,6 +1,6 @@
 # Task Manager
 
-A production-grade to-do task management application built with **.NET 9 Web API** (backend) and **React + TypeScript** (frontend). Designed and implemented with the architectural rigour expected of a staff-level engineer — clean separation of concerns, robust error handling, comprehensive testing, and well-documented trade-offs.
+A production-grade to-do task management application built with **.NET 9 Web API** (backend) and **React + TypeScript** (frontend).
 
 ---
 
